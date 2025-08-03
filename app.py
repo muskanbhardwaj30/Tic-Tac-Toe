@@ -31,7 +31,7 @@ def Draw():
 def playGame():
     currentPlayer = 'X'
     
-    print("🎮 Welcome to Tic Tac Toe!")
+    print("Welcome to Tic Tac Toe!")
     print("❌ = Player X\n😊 = Player O\n")
 
     while True:
